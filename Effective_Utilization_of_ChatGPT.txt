@@ -1,0 +1,56 @@
+Effective Utilization of ChatGPT
+
+1. Formulating Questions and Commands
+--------------------------------------
+Properly structuring your queries helps you get accurate and meaningful answers.
+
+Best Practices:
+- Be Specific: Instead of "Tell me about AI", ask "Explain the difference between machine learning and deep learning with examples."
+- Add Context: Provide your audience or purpose (e.g., "Summarize this article for a 10th-grade student.")
+- Break Complex Tasks: If you need code, explanation, and enhancement, ask in parts.
+- Use Role-Play Prompts: e.g., "Act as a Python interviewer and ask me questions."
+- Set Format Expectations: e.g., "List 5 advantages and disadvantages in bullet points."
+
+Prompt Templates:
+- “Explain like I’m 5…”
+- “Compare X and Y in a table”
+- “Summarize this in 3 bullet points”
+- “Write a Python function that…”
+
+
+2. Contextual Conversations
+----------------------------
+ChatGPT remembers recent exchanges within a session. Here’s how to maintain flow and clarity:
+
+Strategies:
+- Refer back explicitly: “In the example above…”
+- Restate context: “I’m working on a resume for a BPO role…”
+- Use numbers or headings in multi-step tasks for clarity.
+- Mention goal changes to reset the conversation effectively.
+
+Limitations:
+- Long conversations may lose track of context.
+- ChatGPT doesn’t remember past chats unless memory is enabled.
+
+
+3. Ethical Considerations
+--------------------------
+Responsible and ethical use is key when using AI tools.
+
+Key Points:
+- Academic Integrity: Don’t submit AI-generated content as your own work.
+- Data Privacy: Never share confidential or personal data.
+- Bias Awareness: Always verify outputs for fairness and neutrality.
+- Critical Use: Don’t rely on AI for final decisions in legal, health, or financial matters.
+- Transparency: Disclose AI usage in professional or public outputs when relevant.
+
+Tip: Use ChatGPT as a tool for **thinking, creating, and learning**, not as a shortcut for decision-making or original authorship.
+
+
+Summary Tips
+-------------
+- Clear prompts yield clear results.
+- Guide the tone (e.g., casual, formal, bulleted).
+- Refine iteratively (“Make this more concise”, “Simplify for kids”).
+- Explore tools: file uploads, code interpreter, voice, custom GPTs.
+
